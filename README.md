@@ -12,7 +12,7 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 14:00 - 15:00| ?             | ?               | ?             | ?         | ?              |
-| 15:00 - 16:10| ?             | ?               | ?             | ?         | ?              |
+| 15:00 - 16:10| ?             | ?               | ?             | ?         | [Tools Junior Developers should learn?](https://github.com/JCrete/jcrete2016/tree/master/day2/Tools_For_Junior_Developers)          |
 | 16:20 - 17:20| ?             | ?               | ?             | ?         | ?              |
 
 ## Day 3 (03.08.2016)
