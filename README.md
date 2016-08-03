@@ -19,7 +19,7 @@
 
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
-| 09:00 - 10:00| Java Champions | Pimp my presentations | ?             | ?         | Being here - how do I feel? II              |
+| 09:00 - 10:00| Java Champions | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | ?             | ?         | Being here - how do I feel? II              |
 | 10:10 - 11:10| Why JNI is slow | Bitter Jav 8 /Lambda Misuse | Java Microservices             | ?         | Burnout              |
 | 11:20 - 12:20| ?             | (Lightweight) Java EE  | Design Patter for Lambdas             | ?         | Work/life Balance after having a kid   |
 
