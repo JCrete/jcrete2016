@@ -1,0 +1,16 @@
+by Nikos Spanoudakis
+
+In our project we use the JPL interface for querying prolog, as described in this blog entry: 
+http://siteblog.tuc.gr/nispanoudakis/2016/07/13/debugging-a-java-application-querying-prolog-using-eclipse/
+
+However, there are performance issues as the interface imposes a certain overhead which is iritating.
+
+Yarda proposed the use of graalvm for running interpreters (now available for javascript, ruby and r) written using truffle:
+https://github.com/graalvm
+https://github.com/graalvm/truffle
+
+There was a question on whether Prolog is available in graal and how the app can be distributed.
+
+Yarda said that we need to implement a interpeter for Prolog in graal. Regarding packaging, with JVM 9 it will be just aonther jar file. 
+Until then, however, one needs to require to download a new virtual machine GraalVM + OTN (Oracle Technology Network):
+http://www.oracle.com/technetwork/oracle-labs/program-languages/downloads/index.html
