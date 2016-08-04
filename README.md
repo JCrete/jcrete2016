@@ -11,7 +11,7 @@
 
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
-| 14:00 - 15:00| Fastest (J)VM on the Planet  | HTTP/2               | JGoTesting            | Parallel Streams Exec Policy       | Concurrency Tools & Techniques             |
+| 14:00 - 15:00| Fastest (J)VM on the Planet  | HTTP/2    | JGoTesting | Parallel Streams Exec Policy       | Concurrency Tools & Techniques             |
 | 15:00 - 16:10|             | ?               | JavaFX & Mobile            | DevOps        | [Tools Junior devs should learn?](https://github.com/JCrete/jcrete2016/tree/master/day2/Tools_For_Junior_Developers)           |
 | 16:20 - 17:20| Java 9             | Clean and efficient FPT with LWJGL               | ?             | Libraries for functional Java        | Memory footprint of data structures              |
 
@@ -25,8 +25,8 @@
 
 ## Day 4 (04.08.2016)
 
-| Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
-| -------------| ------------- | -------------   | ------------- | ----------| -------------  |
-| 09:00 - 10:00| ?             | ?               | ?             | ?         | ?              |
-| 10:10 - 11:10| ?             | ?               | ?             | ?         | ?              |
-| 11:20 - 12:20| ?             | ?               | ?             | ?         | ?              |
+| Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|The Beach      |Hackergarten   |
+| -------------| ------------- | -------------   | ------------- | ----------| -------------  |-------------  |-------------  |
+| 09:00 - 10:00| Selling Dreams - Java 10 and beyond |CSS Preprocessing / NetBeans Dream Team  | Immutable Collections - Pros and Cons | RUST | Serverless Microservices Architecture              | - | Synch vs Async execution in Microservices |
+| 10:10 - 11:10| Mesos DCOS K8OS | Jenkins in Docker | HTTP(2) Perf and Non-blocking Architecture | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
+| 11:20 - 12:20| Eclipse Collections by Example - Hands-On | Artificial Intelligence and Java | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
