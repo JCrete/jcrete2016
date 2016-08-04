@@ -5,7 +5,7 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 10:10 - 11:10| The JVM Stack Thru the Abstraction Layers  | Java Collections / Eclipse Collections  | Coding & Performance | OSS Licenses  | Event Sourcing Experiences  |
-| 11:20 - 12:20| Biggest Issues to be improved in Java  | Reactive Frameworks / RxJava  | Higher Kinded Types for Java  | [Interfacing Java & Prolog](https://github.com/JCrete/jcrete2016/blob/master/day1/java-prolog%20interface%20minutes.txt)  | Being here - How do I feel?  |
+| 11:20 - 12:20| Biggest Issues to be improved in Java  | [Reactive Frameworks / RxJava](https://github.com/JCrete/jcrete2016/tree/master/day1/RxJava)  | Higher Kinded Types for Java  | [Interfacing Java & Prolog](https://github.com/JCrete/jcrete2016/blob/master/day1/java-prolog%20interface%20minutes.txt)  | Being here - How do I feel?  |
 
 ## Day 2 (02.08.2016)
 
