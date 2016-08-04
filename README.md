@@ -20,7 +20,7 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 09:00 - 10:00| Java Champions | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | KOTLIN | Pony language | Being here - how do I feel? II              |
-| 10:10 - 11:10| Why JNI is slow | [Bitter Java 8 /Lambda Misuse](https://github.com/JCrete/jcrete2016/tree/master/day3/BitterJava8) | Java Microservices             | ?         | Burnout              |
+| 10:10 - 11:10| Why JNI is slow | [Bitter Java 8 /Lambda Misuse](https://github.com/JCrete/jcrete2016/tree/master/day3/BitterJava8) | Java Microservices | [Lambda lab](https://github.com/stuart-marks/LambdaHOLv2) | Burnout              |
 | 11:20 - 12:20| ?             | (Lightweight) Java EE  | Design Patterns using Lambdas | ?         | Work/life Balance after having a kid   |
 
 ## Day 4 (04.08.2016)
@@ -28,8 +28,8 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|The Beach      |Hackergarten   |
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |-------------  |-------------  |
 | 09:00 - 10:00| Selling Dreams - Java 10 and beyond |CSS Preprocessing / NetBeans Dream Team  | Immutable Collections - Pros and Cons | RUST | Serverless Microservices Architecture              | - | Synch vs Async execution in Microservices |
-| 10:10 - 11:10| Mesos DCOS K8OS | Jenkins in Docker | HTTP(2) Perf and Non-blocking Architecture | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
-| 11:20 - 12:20| Eclipse Collections by Example - Hands-On | Artificial Intelligence and Java | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
+| 10:10 - 11:10| Mesos DCOS K8OS | Jenkins in Docker | HTTP(2) Perf and Non-blocking Architecture | A domain specific framework for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
+| 11:20 - 12:20| [Eclipse Collections by Example - Hands-On](https://github.com/eclipse/eclipse-collections-kata) | Artificial Intelligence and Java | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
 
 ## Adding Materials
 
