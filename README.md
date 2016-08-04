@@ -33,7 +33,7 @@
 
 ## Adding Materials
 
-Please create a subfolder with a short tile of your session without special characters and spaces under the folder for the day. If you have only text, markdown is preferred. Then please add a link to the schedule.
+Please create a subfolder with a short title of your session without special characters and spaces under the folder for the day. If you have only text, markdown is preferred. Then please add a link to the schedule.
 
 Please create a README.md in that folder, saying who was the convenor of the session.
 
