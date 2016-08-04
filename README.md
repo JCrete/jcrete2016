@@ -5,7 +5,7 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 10:10 - 11:10| The JVM Stack Thru the Abstraction Layers  | Java Collections / Eclipse Collections  | Coding & Performance | OSS Licenses  | Event Sourcing Experiences  |
-| 11:20 - 12:20| Biggest Issues to be improved in Java  | Reactive Frameworks / RxJava  | Higher Kinded Types for Java  | Interfacing Java & Prolog  | Being here - How do I feel?  |
+| 11:20 - 12:20| Biggest Issues to be improved in Java  | Reactive Frameworks / RxJava  | Higher Kinded Types for Java  | [Interfacing Java & Prolog](https://github.com/JCrete/jcrete2016/blob/master/day1/java-prolog%20interface%20minutes.txt)  | Being here - How do I feel?  |
 
 ## Day 2 (02.08.2016)
 
@@ -30,3 +30,11 @@
 | 09:00 - 10:00| Selling Dreams - Java 10 and beyond |CSS Preprocessing / NetBeans Dream Team  | Immutable Collections - Pros and Cons | RUST | Serverless Microservices Architecture              | - | Synch vs Async execution in Microservices |
 | 10:10 - 11:10| Mesos DCOS K8OS | Jenkins in Docker | HTTP(2) Perf and Non-blocking Architecture | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
 | 11:20 - 12:20| Eclipse Collections by Example - Hands-On | Artificial Intelligence and Java | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
+
+## Adding Materials
+
+Please create a subfolder with a short tile of your session without special characters and spaces under the folder for the day. If you have only text, markdown is preferred. Then please add a link to the schedule.
+
+Please create a README.md in that folder, saying who was the convenor of the session.
+
+If you don't want to add the materials directly because you already have them available elsewhere you can just link them from the schedule.
