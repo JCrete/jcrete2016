@@ -1,0 +1,3 @@
+= JavaHub Cutter Backend
+
+https://github.com/sdaschner/javahub-cutter-backend[JavaHub Cutter Backend] created as Hackergarten community project.
