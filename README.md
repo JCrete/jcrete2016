@@ -1,8 +1,8 @@
 # JCrete 2016 Material 
 
-[Introduction to JCrete](https://www.youtube.com/watch?v=9E4Dj85SkBE)
-[OAC Introduction by Dr. Zorbas](https://www.youtube.com/watch?v=rshrkmuEv4M)
-[Closing Party with "Core the band"](https://www.youtube.com/watch?v=q2_rm1bBu_Y)
+* [Introduction to JCrete](https://www.youtube.com/watch?v=9E4Dj85SkBE)
+* [OAC Introduction by Dr. Zorbas](https://www.youtube.com/watch?v=rshrkmuEv4M)
+* [Closing Party with "Core the band"](https://www.youtube.com/watch?v=q2_rm1bBu_Y)
 
 ## Day 1 (01.08.2016)
 
@@ -45,5 +45,5 @@ If you don't want to add the materials directly because you already have them av
 
 ## Photos
 
-[Stephen Chin](https://www.flickr.com/photos/steveonjava/albums/72157671155561551)
-[David Garcia](https://goo.gl/photos/k1AeQTiXVXoPyGbV6)
+* [Stephen Chin](https://www.flickr.com/photos/steveonjava/albums/72157671155561551)
+* [David Garcia](https://goo.gl/photos/k1AeQTiXVXoPyGbV6)
