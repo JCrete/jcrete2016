@@ -1,5 +1,9 @@
 # JCrete 2016 Material 
 
+[Introduction to JCrete](https://www.youtube.com/watch?v=9E4Dj85SkBE)
+[OAC Introduction by Dr. Zorbas](https://www.youtube.com/watch?v=rshrkmuEv4M)
+[Closing Party with "Core the band"](https://www.youtube.com/watch?v=q2_rm1bBu_Y)
+
 ## Day 1 (01.08.2016)
 
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
