@@ -32,7 +32,7 @@
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|The Beach      |Hackergarten   |
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |-------------  |-------------  |
 | 09:00 - 10:00| [Selling Dreams - Java 10 and beyond](https://www.youtube.com/watch?v=Pel8YZlTtc8) |CSS Preprocessing / NetBeans Dream Team  | Immutable Collections - Pros and Cons | RUST | Serverless Microservices Architecture              | - | Synch vs Async execution in Microservices |
-| 10:10 - 11:10| [Mesos DCOS / Kubernetes](https://www.youtube.com/watch?v=U3vhjwHbziM) | Jenkins in Docker | HTTP(2) Perf and Non-blocking Architecture | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
+| 10:10 - 11:10| [Mesos DCOS / Kubernetes](https://www.youtube.com/watch?v=U3vhjwHbziM) | Jenkins in Docker | [HTTP(2) Perf and Non-blocking Architecture](day4/HTTP2_Performance_and_Non-blocking_Architecture/HTTP2_Performance_and_Non-blocking_Architecture.pdf) | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
 | 11:20 - 12:20| [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk) | [Eclipse Collections by Example - Hands-On](https://github.com/eclipse/eclipse-collections-kata) | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
 
 ## Adding Materials
