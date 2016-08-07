@@ -35,6 +35,13 @@
 | 10:10 - 11:10| [Mesos DCOS / Kubernetes](https://www.youtube.com/watch?v=U3vhjwHbziM) | Jenkins in Docker | [HTTP(2) Perf and Non-blocking Architecture](day4/HTTP2_Performance_and_Non-blocking_Architecture/HTTP2_Performance_and_Non-blocking_Architecture.pdf) | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
 | 11:20 - 12:20| [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk) | [Eclipse Collections by Example - Hands-On](https://github.com/eclipse/eclipse-collections-kata) | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
 
+== Day 5 - Hackday
+
+* [JavaHub Cutter Backend](https://github.com/JCrete/jcrete2016/tree/master/day5/javahub-cutter-backend)
+* [OpenCL Demo](https://github.com/JCrete/jcrete2016/tree/master/day5/OpenCL)
+* "Mary Had a Little Lambda" for JCrete 4 Kids
+* Lego Workshop for JCrete 4 Kids
+
 ## Adding Materials
 
 Please create a subfolder with a short title of your session without special characters and spaces under the folder for the day. If you have only text, markdown is preferred. Then please add a link to the schedule.
