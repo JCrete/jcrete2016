@@ -17,7 +17,7 @@
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 14:00 - 15:00| [Fastest (J)VM on the Planet](https://www.youtube.com/watch?v=yaWq20AFN9U)  | HTTP/2    | JGoTesting | Parallel Streams Exec Policy       | Concurrency Tools & Techniques             |
 | 15:00 - 16:10| [Inside H2O - A Clustered Computing Architecture](https://www.youtube.com/watch?v=4WMs3cQyovg) | [Putting Hypermedia Back in REST with JAX-RS](https://github.com/sdaschner/jaxrs-hypermedia) | JavaFX & Mobile            | DevOps        | [Tools Junior devs should learn?](https://github.com/JCrete/jcrete2016/tree/master/day2/Tools_For_Junior_Developers)           |
-| 16:20 - 17:20| [What to expect from Java 9?](https://www.youtube.com/watch?v=oq7nTwtN3js) | Clean and efficient FPT with LWJGL               | ?             | Libraries for functional Java        | Memory footprint of data structures              |
+| 16:20 - 17:20| [What to expect from Java 9?](https://www.youtube.com/watch?v=oq7nTwtN3js) | Clean and efficient FPT with LWJGL               | Remote Working            | Libraries for functional Java        | Memory footprint of data structures              |
 
 ## Day 3 (03.08.2016)
 
@@ -25,7 +25,7 @@
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 09:00 - 10:00| [Java Champions](https://www.youtube.com/watch?v=XeAJYe4QBog) | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | KOTLIN | Pony language | Being here - how do I feel? II              |
 | 10:10 - 11:10| [Why JNI is slow](https://www.youtube.com/watch?v=LoyBTqkSkZk) | [Bitter Java 8 /Lambda Misuse](https://github.com/JCrete/jcrete2016/tree/master/day3/BitterJava8) | Java Microservices             | [Lambda lab](https://github.com/stuart-marks/LambdaHOLv2)         | Burnout              |
-| 11:20 - 12:20| ?             | (Lightweight) Java EE  | Design Patterns using Lambdas | ?         | Work/life Balance after having a kid   |
+| 11:20 - 12:20| Testing infrastructure for JVMs  | (Lightweight) Java EE  | Design Patterns using Lambdas | Concurrency Rule of Thumb         | Work/life Balance after having a kid   |
 
 ## Day 4 (04.08.2016)
 
