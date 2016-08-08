@@ -1,0 +1,3 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"mtm.demo.benchmark.MatrixBenchmark.testMultiThreadedMultiplication","thrpt",1,5,0.131232,0.001025,"ops/s"
+"mtm.demo.benchmark.MatrixBenchmark.testSingleThreadedMultiplication","thrpt",1,5,0.041826,0.003208,"ops/s"
