@@ -17,7 +17,7 @@
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 14:00 - 15:00| [Fastest (J)VM on the Planet](https://www.youtube.com/watch?v=yaWq20AFN9U)  | HTTP/2    | JGoTesting | Parallel Streams Exec Policy       | Concurrency Tools & Techniques             |
 | 15:00 - 16:10| [Inside H2O - A Clustered Computing Architecture](https://www.youtube.com/watch?v=4WMs3cQyovg) | [Putting Hypermedia Back in REST with JAX-RS](https://github.com/sdaschner/jaxrs-hypermedia) | JavaFX & Mobile            | DevOps        | [Tools Junior devs should learn?](https://github.com/JCrete/jcrete2016/tree/master/day2/Tools_For_Junior_Developers)           |
-| 16:20 - 17:20| [What to expect from Java 9?](https://www.youtube.com/watch?v=oq7nTwtN3js) | Clean and efficient FPT with LWJGL               | Remote Working            | Libraries for functional Java        | Memory footprint of data structures              |
+| 16:20 - 17:20| [What to expect from Java 9?](https://www.youtube.com/watch?v=oq7nTwtN3js) | Clean and efficient FPT with LWJGL               | Remote Working            | Libraries for functional Java        | [Memory footprint of data structures](http://www.slideshare.net/JeanPhilippeBEMPEL/out-ofmemoryerror-what-is-the-cost-of-java-objects)              |
 
 ## Day 3 (03.08.2016)
 
