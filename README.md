@@ -23,7 +23,7 @@
 
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
-| 09:00 - 10:00| [Java Champions](https://www.youtube.com/watch?v=XeAJYe4QBog) | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | KOTLIN | Pony language | Being here - how do I feel? II              |
+| 09:00 - 10:00| [Java Champions](https://www.youtube.com/watch?v=XeAJYe4QBog) | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | KOTLIN | [Pony language](http://www.ponylang.org/) | Being here - how do I feel? II              |
 | 10:10 - 11:10| [Why JNI is slow](https://www.youtube.com/watch?v=LoyBTqkSkZk) | [Bitter Java 8 /Lambda Misuse](https://github.com/JCrete/jcrete2016/tree/master/day3/BitterJava8) | Java Microservices             | [Lambda lab](https://github.com/stuart-marks/LambdaHOLv2)         | Burnout              |
 | 11:20 - 12:20| Testing infrastructure for JVMs  | (Lightweight) Java EE  | Design Patterns using Lambdas | Concurrency Rule of Thumb         | Work/life Balance after having a kid   |
 
