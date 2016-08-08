@@ -1,0 +1,2 @@
+JMH S 34 mtm.demo.benchmark.MatrixBenchmark S 85 mtm.demo.benchmark.generated.MatrixBenchmark_testSingleThreadedMultiplication_jmhTest S 32 testSingleThreadedMultiplication S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 34 mtm.demo.benchmark.MatrixBenchmark S 84 mtm.demo.benchmark.generated.MatrixBenchmark_testMultiThreadedMultiplication_jmhTest S 31 testMultiThreadedMultiplication S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
