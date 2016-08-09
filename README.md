@@ -8,7 +8,7 @@
 
 | Time/Room    | The Stage     | The Library     | Printing Room | Lounge    | Under The Vines|
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
-| 10:10 - 11:10| The JVM Stack Thru the Abstraction Layers  | Java Collections / Eclipse Collections  | Coding & Performance | OSS Licenses  | Event Sourcing Experiences  |
+| 10:10 - 11:10| [The JVM Stack Thru the Abstraction Layers](https://github.com/JCrete/jcrete2016/tree/master/day1/JVM_Stack)  | Java Collections / Eclipse Collections  | Coding & Performance | OSS Licenses  | Event Sourcing Experiences  |
 | 11:20 - 12:20| [Project Valhalla/Biggest Issues to be improved in Java](https://www.youtube.com/watch?v=wnqjYla62VU)  |  [Reactive Frameworks / RxJava](https://github.com/JCrete/jcrete2016/tree/master/day1/RxJava)  | Higher Kinded Types for Java  | [Interfacing Java & Prolog](https://github.com/JCrete/jcrete2016/blob/master/day1/java-prolog%20interface%20minutes.txt)  | Being here - How do I feel?  |
 
 ## Day 2 (02.08.2016)
@@ -25,7 +25,7 @@
 | -------------| ------------- | -------------   | ------------- | ----------| -------------  |
 | 09:00 - 10:00| [Java Champions](https://www.youtube.com/watch?v=XeAJYe4QBog) | [Pimp my presentations](https://github.com/JCrete/jcrete2016/tree/master/day3/Pimp_My_Presentations) | KOTLIN | [Pony language](http://www.ponylang.org/) | Being here - how do I feel? II              |
 | 10:10 - 11:10| [Why JNI is slow](https://www.youtube.com/watch?v=LoyBTqkSkZk) | [Bitter Java 8 /Lambda Misuse](https://github.com/JCrete/jcrete2016/tree/master/day3/BitterJava8) | Java Microservices             | [Lambda lab](https://github.com/stuart-marks/LambdaHOLv2)         | Burnout              |
-| 11:20 - 12:20| Testing infrastructure for JVMs  | (Lightweight) Java EE  | Design Patterns using Lambdas | Concurrency Rule of Thumb         | Work/life Balance after having a kid   |
+| 11:20 - 12:20| [Testing infrastructure for JVMs](https://github.com/JCrete/jcrete2016/tree/master/day3/Testing_Infrastructure_JVM)  | (Lightweight) Java EE  | Design Patterns using Lambdas | Concurrency Rule of Thumb         | Work/life Balance after having a kid   |
 
 ## Day 4 (04.08.2016)
 
@@ -35,12 +35,17 @@
 | 10:10 - 11:10| [Mesos DCOS / Kubernetes](https://www.youtube.com/watch?v=U3vhjwHbziM) | Jenkins in Docker | [HTTP(2) Perf and Non-blocking Architecture](day4/HTTP2_Performance_and_Non-blocking_Architecture/HTTP2_Performance_and_Non-blocking_Architecture.pdf) | A domain specific framewor for parallel processing of genomes | Are you a JCP Member? | State of Java on Client | Groovy / What Java can learn from Go|
 | 11:20 - 12:20| [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk) | [Eclipse Collections by Example - Hands-On](https://github.com/eclipse/eclipse-collections-kata) | CBOR the better JSON | Actor Model (AKKA)       | Dynamic Java Code Generation, Compilation, Execution at Runtime | How did you get here? | MVP in Java |
 
-== Day 5 - Hackday
+## Day 5 - Hackday
 
 * [JavaHub Cutter Backend](https://github.com/JCrete/jcrete2016/tree/master/day5/javahub-cutter-backend)
 * [OpenCL Demo](https://github.com/JCrete/jcrete2016/tree/master/day5/OpenCL)
-* "Mary Had a Little Lambda" for JCrete 4 Kids
+* ["Mary Had a Little Lambda" for JCrete 4 Kids](http://www.oracle.com/technetwork/articles/java/rich-client-lambdas-2227138.html)
 * Lego Workshop for JCrete 4 Kids
+
+## Photos
+
+* [Stephen Chin](https://www.flickr.com/photos/steveonjava/albums/72157671155561551)
+* [David Garcia](https://goo.gl/photos/k1AeQTiXVXoPyGbV6)
 
 ## Adding Materials
 
@@ -50,7 +55,3 @@ Please create a README.md in that folder, saying who was the convenor of the ses
 
 If you don't want to add the materials directly because you already have them available elsewhere you can just link them from the schedule.
 
-## Photos
-
-* [Stephen Chin](https://www.flickr.com/photos/steveonjava/albums/72157671155561551)
-* [David Garcia](https://goo.gl/photos/k1AeQTiXVXoPyGbV6)
