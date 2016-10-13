@@ -22,50 +22,56 @@ import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
 
+@BenchmarkMode(Mode.Throughput)
+@State(Scope.Thread)
 public class MatrixBenchmark {
- 
-    @State(Scope.Thread)
-    public static class MyState {
-        int size = 2000;
-        Matrix a = new Matrix(size, size);
-        Matrix b = new Matrix(size, size);
-        Matrix result = new Matrix(size, size);
-                      
-       @Setup(Level.Trial)
-        public void doSetup() {
-            MatrixOp.randomize(a);
-            MatrixOp.randomize(b);
-        }        
-        
+
+    int size = 500;
+    Matrix a = new Matrix(size, size);
+    Matrix b = new Matrix(size, size);
+    Matrix result = new Matrix(size, size);
+
+    MatMultiThread evenTask = new MatMultiThread(a, b, result, 0, 2);
+    MatMultiThread oddTask = new MatMultiThread(a, b, result, 1, 2);
+    ExecutorService threadPool = Executors.newFixedThreadPool(2);
+
+
+    @Setup(Level.Trial)
+    public void doSetup() {
+        MatrixOp.randomize(a);
+        MatrixOp.randomize(b);
     }
 
-       
-    @Benchmark @BenchmarkMode(Mode.Throughput)
-    public void testSingleThreadedMultiplication(MyState state) {
-        MatrixOp.multiply(state.a, state.b, state.result);
+    @TearDown(Level.Trial)
+    public void doTearDown() {
+        threadPool.shutdown();
     }
 
-    @Benchmark @BenchmarkMode(Mode.Throughput)
-    public void testMultiThreadedMultiplication(MyState state) {
-        MatMultiThread evenTask = new MatMultiThread(state.a, state.b, state.result, 0, 2);
-        MatMultiThread oddTask = new MatMultiThread(state.a, state.b, state.result, 1, 2);
-        
-        ExecutorService threadPool = Executors.newFixedThreadPool(2);
-        
+
+
+
+    @Benchmark
+    public void testSingleThreadedMultiplication() {
+        MatrixOp.multiply(a, b, result);
+    }
+
+    @Benchmark
+    public void testMultiThreadedMultiplication(Blackhole bh) {
         try {
-            Matrix r = threadPool.submit(oddTask).get();
+            Future<Matrix> oddTaskFuture = threadPool.submit(oddTask);
+            Future<Matrix> evenTaskFuture = threadPool.submit(evenTask);
+            bh.consume(oddTaskFuture.get());
+            bh.consume(evenTaskFuture.get());
+
         } catch (InterruptedException ex) {
             Logger.getLogger(MatrixBenchmark.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (ExecutionException ex) {
             Logger.getLogger(MatrixBenchmark.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (Exception ex) {
+            Logger.getLogger(MatrixBenchmark.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+    }
 
-        
-        threadPool.shutdown();
-        
-    }    
-    
-    
     public static void main(String[] args) throws RunnerException {
         Options opt = new OptionsBuilder()
                 .include(MatrixBenchmark.class.getSimpleName())
@@ -73,10 +79,10 @@ public class MatrixBenchmark {
                 .measurementIterations(5)
                 .jvmArgs("-server")
                 .resultFormat(ResultFormatType.CSV)
-                .forks(1)                
+                .forks(1)
                 .build();
 
         new Runner(opt).run();
-    }     
-    
+    }
+
 }
